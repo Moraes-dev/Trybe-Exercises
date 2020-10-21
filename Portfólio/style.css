@@ -1,54 +1,79 @@
-<style>
-    body{
+/*Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos (V);
+A descrição deve ficar ao lado da foto; (V)
+Centralize seu nome na página; (V)
+Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página; (V)
+Adicione margin e padding nos elementos com pelo menos 35px de distância; (V)
+Coloque espaçamento entre os elementos para que você se sinta mais confortável com o que você fez; (V)
+Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) */
+    body{ 
         text-align: center;
         background-color:#0fa36b;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
         font-size:1.5em;
         }
-   
-    h1{
-         font-family: cursive, 'Sansita Swashed';
-         }
-     p{
+
+    h1  {
+        font-family: cursive, 'Sansita Swashed';
+            }
+    p  {
         font-size: 1.2em;
-         }
+            }
     .destaque{
-                font-weight: bolder;
-        }
-     .SoftSkills{
-                font-size:1.5em;
+        font-weight: bolder;
+            }
+    .SoftSkills{
+        font-size:1.5em;
 
-        }
-     .Lógica{
-                font-size:1.3em;
+            }
+    .Lógica{
+        font-size:1.3em;
 
-        }
+            }
     .Others{
-           font-size:1.1em;
+        font-size:1.1em;
 
-        }
-     .fonte-nome{
+            }
+    .fonte-nome{
         font-family:Cursive, 'Sansita Swashed';
         font-size:1.35em;
         color:A1E8CC;
         font-weight: bolder;
-        }
+            }
     #imagem-lucas{
         border-radius: 100%;
-        text-align: center;                
+        text-align: center;      
+        float:left;     
+        margin-left:2%;
+        padding:1%;
+        background-color:F2F5FF;
         }
     .cor-fonte-azulbb{
-                color:A1E8CC;
-        }
+       color:A1E8CC;
+            }
     .cor-fonte-amarela{
         color:EDD83D;
-        }
-            
+            }
+    
     .cor-fonte-branca{
         color:F2F5FF;
-        }
+    }
     .cor-fonte-marrom{
         color:3D1308; 
-            ont-size:1.8em;
-        }
-</style>
+        font-size:1.8em;
+    /*.cor-fonte-verde{
+        color:#0fa36b;
+    }*/
+    }
+    #foto-descrição{
+        border:2%;
+        padding: 35px;
+        margin: 35px;
+    }
+   #primeira-parte-site{
+        padding: 35px;
+        margin: 35px;   
+    }
+    #terceira-parte-site{
+        padding: 35px;
+        margin: 35px; 
+    }
