@@ -23,15 +23,18 @@ Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) *
             }
     .SoftSkills{
         font-size:1.5em;
+        list-style:square;
+        margin-left:1.2%;
 
             }
     .Lógica{
         font-size:1.3em;
-
+        margin-left:1%;
+        list-style: square;
             }
     .Others{
         font-size:1.1em;
-
+        margin-left:1%;
             }
     .fonte-nome{
         font-family:Cursive, 'Sansita Swashed';
@@ -77,3 +80,5 @@ Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) *
         padding: 35px;
         margin: 35px; 
     }
+    /*.footer{
+    }*/
