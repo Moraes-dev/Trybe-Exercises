@@ -1,0 +1,54 @@
+<style>
+    body{
+        text-align: center;
+        background-color:#0fa36b;
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        font-size:1.5em;
+        }
+   
+    h1{
+         font-family: cursive, 'Sansita Swashed';
+         }
+     p{
+        font-size: 1.2em;
+         }
+    .destaque{
+                font-weight: bolder;
+        }
+     .SoftSkills{
+                font-size:1.5em;
+
+        }
+     .Lógica{
+                font-size:1.3em;
+
+        }
+    .Others{
+           font-size:1.1em;
+
+        }
+     .fonte-nome{
+        font-family:Cursive, 'Sansita Swashed';
+        font-size:1.35em;
+        color:A1E8CC;
+        font-weight: bolder;
+        }
+    #imagem-lucas{
+        border-radius: 100%;
+        text-align: center;                
+        }
+    .cor-fonte-azulbb{
+                color:A1E8CC;
+        }
+    .cor-fonte-amarela{
+        color:EDD83D;
+        }
+            
+    .cor-fonte-branca{
+        color:F2F5FF;
+        }
+    .cor-fonte-marrom{
+        color:3D1308; 
+            ont-size:1.8em;
+        }
+</style>
