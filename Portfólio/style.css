@@ -1,11 +1,4 @@
-/*Coloque seu nome, sua foto e a descrição que você escreveu sobre você dentro de blocos (V);
-A descrição deve ficar ao lado da foto; (V)
-Centralize seu nome na página; (V)
-Use padding e coloque uma cor de fundo na sua foto que seja diferente da cor de fundo do resto da página; (V)
-Adicione margin e padding nos elementos com pelo menos 35px de distância; (V)
-Coloque espaçamento entre os elementos para que você se sinta mais confortável com o que você fez; (V)
-Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) */
-    body{ 
+body{ 
         text-align: center;
         background-color:#0fa36b;
         font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -21,6 +14,10 @@ Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) *
     .destaque{
         font-weight: bolder;
             }
+    #habilidades-h{
+        font-size:2em;
+        font-style:cursive;
+    }
     .SoftSkills{
         font-size:1.5em;
         list-style:square;
@@ -62,7 +59,6 @@ Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) *
     }
     .cor-fonte-marrom{
         color:3D1308; 
-        font-size:1.8em;
     /*.cor-fonte-verde{
         color:#0fa36b;
     }*/
@@ -80,5 +76,8 @@ Coloque estilo somente nos ítens ímpares da lista das suas habilidades.  ( ) *
         padding: 35px;
         margin: 35px; 
     }
-    /*.footer{
-    }*/
+    #footer{
+        color:F2F5FF; 
+        font-size:1.4em;
+        font-weight:bold;
+    }
