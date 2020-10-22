@@ -2,7 +2,7 @@
 This repository have all the exercises developed by [Lucas Moraes Alvares - LM](https://www.linkedin.com/in/lucas-moraes-dev/) 
 during Trybe's course. 
 ## README credit
-This repository was taken from [eric massaki's] github - (https://github.com/emassaki/trybe-exercises)
+This repository was taken from **Eric Massaki's** github - https://github.com/emassaki/trybe-exercises
 ### [Trybe](https://www.betrybe.com/) :rocket:
 Trybe is a school for people who want to wants to build a succesful career in technology. The program counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git and other languages and frameworks.
