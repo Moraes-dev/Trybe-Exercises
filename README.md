@@ -1,6 +1,6 @@
 Trybe Exercises
 This repository have all the exercises developed by Lucas Moraes Alvares da Silva during Trybe's course.
-
+This repository was taken from eric massaki's github (https://github.com/emassaki/trybe-exercises)
 Trybe rocket
 Trybe is a school for people who wants to build a succesful career in technology. The program counts with more than 1.500 hours of contents of software development, front-end, back-end, computer science, software engineering, agile methodologies and soft skills.
 
@@ -9,7 +9,7 @@ The curriculum contains HTML, CSS, JavaScript, React, Node, Express.js, SQL, Git
 How to access the exercises
 Everyday I'll be making new Pull Requests with new branches for each day. To access the files from terminal, make a clone of the repository with:
 
-git clone https://github.com/emassaki/trybe-exercises.git
+git clone https://github.com/Moraes-dev/Trybe-Exercises
 Then, you have to change branches according to the lecture you want to visit:
 
 git checkout exercises/lecture_number
